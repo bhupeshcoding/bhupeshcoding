@@ -66,7 +66,7 @@ I believe in the power of collaboration and community-driven learning. If you're
 
 ---
 
-> 💡 *"Coding is not just about solving problems; it's about creating solutions that inspire and empower others."*
+> 💡 *"Every line of code is a step toward turning ideas into reality and shaping a better tomorrow."*
 
 ---
 
