@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bhupesh Joshi
 
 Welcome to my GitHub profile! I'm a passionate **web developer** and problem solver who loves building innovative solutions and contributing to impactful projects.
-
+Designed, developed, and deployed AI-driven solutions to optimize processes and enhance user experiences using machine learning and deep learning techniques.
 ---
 
 ## 👀 About Me
